@@ -7,7 +7,6 @@ public class Audio extends ElementoMultimediale implements Riproducibile, Regola
     public Audio(String titolo, int durata, int volume) {
         super(titolo);
         this.durata = durata;
-
         this.volume = volume;
     }
 
@@ -26,5 +25,11 @@ public class Audio extends ElementoMultimediale implements Riproducibile, Regola
         for (int i = 0; i < durata; i++) {
             System.out.println(titolo + " " + "!".repeat(volume));
         }
+    }
+
+    @Override
+    public void show() {
+        // Implementazione per gestire la visualizzazione di un audio.
+        System.out.println("Audio: " + titolo + " (Durata: " + durata + "s, Volume: " + volume + ")");
     }
 }

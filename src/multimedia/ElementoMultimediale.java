@@ -10,4 +10,7 @@ public abstract class ElementoMultimediale {
     public String getTitolo() {
         return titolo;
     }
+
+    // Metodo astratto show()
+    public abstract void show();
 }
