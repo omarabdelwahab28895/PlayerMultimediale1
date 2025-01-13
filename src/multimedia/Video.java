@@ -41,7 +41,6 @@ public class Video extends ElementoMultimediale implements Riproducibile, Regola
 
     @Override
     public void show() {
-        // Implementazione per visualizzare i dettagli del video
         System.out.println("Video: " + titolo + " (Durata: " + durata + "s, Volume: " + volume + ", Luminosità: " + luminosita + ")");
     }
 }

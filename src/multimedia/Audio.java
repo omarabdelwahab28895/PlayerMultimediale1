@@ -29,7 +29,6 @@ public class Audio extends ElementoMultimediale implements Riproducibile, Regola
 
     @Override
     public void show() {
-        // Implementazione per gestire la visualizzazione di un audio.
         System.out.println("Audio: " + titolo + " (Durata: " + durata + "s, Volume: " + volume + ")");
     }
 }

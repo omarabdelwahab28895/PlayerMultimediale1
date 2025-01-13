@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class LettoreMultimediale {
     public static void main(String[] args) {
-        // Creazione dell'array di 5 elementi multimediali
+
         ElementoMultimediale[] elementi = new ElementoMultimediale[5];
         elementi[0] = new Audio("Canzone1", 5, 3);
         elementi[1] = new Video("Filmato1", 3, 4, 2);
@@ -12,11 +12,9 @@ public class LettoreMultimediale {
         elementi[3] = new Audio("Canzone2", 4, 2);
         elementi[4] = new Video("Filmato2", 2, 5, 3);
 
-        // Scanner per input dell'utente
         Scanner scanner = new Scanner(System.in);
         int scelta;
 
-        // Ciclo per il menu interattivo
         do {
             System.out.println("\nSeleziona un elemento da eseguire (1-5) o 0 per uscire:");
             for (int i = 0; i < elementi.length; i++) {

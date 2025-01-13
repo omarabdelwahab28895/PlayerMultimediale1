@@ -11,6 +11,5 @@ public abstract class ElementoMultimediale {
         return titolo;
     }
 
-    // Metodo astratto show()
     public abstract void show();
 }

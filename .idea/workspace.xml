@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cefe7597-1c6d-4cfd-99a3-ddc180798b39" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/PlayerMultimediale/multimedia/Audio.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PlayerMultimediale/multimedia/Audio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PlayerMultimediale/multimedia/ElementoMultimediale.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PlayerMultimediale/multimedia/ElementoMultimediale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PlayerMultimediale/multimedia/Immagine.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PlayerMultimediale/multimedia/Immagine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PlayerMultimediale/multimedia/LettoreMultimediale.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PlayerMultimediale/multimedia/LettoreMultimediale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PlayerMultimediale/multimedia/Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PlayerMultimediale/multimedia/Video.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/multimedia/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multimedia/Audio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/multimedia/ElementoMultimediale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multimedia/ElementoMultimediale.java" afterDir="false" />
